@@ -1,0 +1,15 @@
+{
+    "name": "cucumber-js",
+    "version": "1.0.0",
+    "descrition": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "cucumber-js test"
+    },
+    "keywords": [],
+    "author": "Matheus Barbachan",
+    "license": "ISC",
+    "devDependencies": {
+        "cucumber": "^7.0.0-rc.0"
+    }
+}
